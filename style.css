@@ -1,0 +1,13 @@
+body {
+    background-color:crimson;
+}
+
+#jumbo {  
+    background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2ChocolateChipCookies.jpg/640px-2ChocolateChipCookies.jpg');  
+    background-repeat:no-repeat;  
+    background-size: cover;
+    background-position: center;
+    width:40%; 
+    height:100%
+    }  
+
